@@ -1,3 +1,6 @@
 Name: Krishna
 Email: Krishna.xxxxx@gmail.com
 Mobile: XXXXXXXXXXX
+
+Education1: anna university
+Education2: Malla reddy college
