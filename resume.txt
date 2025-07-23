@@ -5,3 +5,7 @@ Mobile: XXXXXXXXXXX
 Education1: anna university
 Education2: Malla reddy university
 Education3: CBIT university
+
+Project 1:
+----------
+Objective: Explains the goal of the project
