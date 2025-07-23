@@ -9,3 +9,10 @@ Education3: CBIT university
 Project 1:
 ----------
 Objective: Explains the goal of the project
+Analysis: 
+
+
+Project 2:
+----------
+Objective: explanation
+Analysis: information
